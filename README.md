@@ -91,7 +91,7 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 License
 
-Distributed under the BSD License. See LICENSE for more information.
+Distributed under the BSD 2-Clause License. See LICENSE for more information.
 
 Contact
 
